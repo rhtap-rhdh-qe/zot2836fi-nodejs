@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zot2836fi-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zot2836fi-nodejs-gitops
